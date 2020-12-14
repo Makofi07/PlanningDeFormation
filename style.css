@@ -20,7 +20,21 @@ table {
 }
 td {
   border: 1px solid black;
+  padding: 1em;
 }
 th {
   border: 2px dotted #000;
+}
+/* Séparateur pour midi  */
+.blackCase {
+  background-color: #000;
+}
+.pseudoCode {
+  color: teal;
+  text-align: center;
+  font-size: 22px;
+}
+.openClassrooms {
+  font-size: 22px;
+  color: turquoise;
 }
