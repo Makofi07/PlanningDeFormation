@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+table {
+  border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+td {
+  border: 1px solid black;
+}
+th {
+  border: 2px dotted #000;
+}
