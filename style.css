@@ -32,7 +32,6 @@ th {
   background-color: #000;
 }
 .pseudoCode {
-  color: teal;
   text-align: center;
   background: #dae2f8; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -48,7 +47,6 @@ th {
 }
 .openClassrooms {
   background-color: #eb5f55;
-  color: turquoise;
 }
 .codeGame {
   background: #2bc0e4; /* fallback for old browsers */
