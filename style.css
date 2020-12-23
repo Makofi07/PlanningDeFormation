@@ -12,6 +12,8 @@ h1 {
   flex-direction: column;
   background: #f8fafa;
 }
+
+/* Partie Header */
 header {
   background: #fff;
   display: flex;
@@ -30,8 +32,10 @@ td {
 th {
   border: 2px dotted #000;
 }
-/* Séparateur pour midi  */
-.blackCase {
+
+/* Les cellules du tableau */
+
+.blackCase /* La pause repas  */ {
   background-color: #000;
 }
 .pseudoCode {
